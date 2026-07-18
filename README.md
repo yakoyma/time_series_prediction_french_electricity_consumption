@@ -1,0 +1,13 @@
+# Project: Prediction of Electricity Consumption in France
+
+This Time Series and Regression project consists in predicting the electricity consumption in France based on RTE (Réseau de transport d'électricité) datasets. The purpose is to discover and test different Machine Learning models for Time Series.
+
+The datasets can be found on the [Open Data Réseaux Énergies (ODRÉ)](https://opendata.reseaux-energies.fr/) platform.
+
+
+
+# Projet : Prédiction de la consommation d'électricité en France
+
+Ce projet de séries temporelles et régression consiste à prédire la consommation d'électricité en France à partir des données de RTE (Réseau de transport d'électricité). L'objectif est de découvrir et tester différents modèles de Machine Learning pour les séries temporelles.
+
+Les jeux de données se trouvent sur la platreforme d'[Open Data Réseaux Énergies (ODRÉ)](https://opendata.reseaux-energies.fr/).
